@@ -1,4 +1,4 @@
-@anandi1989
+# Amit Nandi
 
 Senior Manager, AI Science at Verizon. I build and lead the machine learning behind personalized customer experiences — ranking, recommendation, propensity modeling, and agentic systems.
 

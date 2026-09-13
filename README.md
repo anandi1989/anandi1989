@@ -1,6 +1,6 @@
 # Amit Nandi
 
-Senior Manager, AI Science at Verizon. I build and lead the machine learning behind personalized customer experiences — ranking, recommendation, propensity modeling, and agentic systems.
+AI Engineering Manager driving growth for US telecom giants through Agentic AI and personalization. I build and lead the machine learning behind personalized customer experiences — ranking, recommendation, propensity modeling, and agentic systems.
 
 My background is mathematical modeling rather than CS. Most of what interests me sits at the intersection of ranking systems and the question underneath them: how do you know a model is actually better before you put it in front of customers?
 

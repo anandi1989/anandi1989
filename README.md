@@ -1,8 +1,8 @@
 # Amit Nandi
 
-AI Engineering Manager driving growth for US telecom giants through Agentic AI and personalization. I build and lead the machine learning behind personalized customer experiences — ranking, recommendation, propensity modeling, and agentic systems.
+AI Engineering Manager driving growth for US telecom giants through Agentic AI and personalization. I build and lead the machine learning behind personalized customer experiences through ranking, recommendation, propensity modeling, and agentic systems.
 
-My background is mathematical modeling rather than CS. Most of what interests me sits at the intersection of ranking systems and the question underneath them: how do you know a model is actually better before you put it in front of customers?
+My background is in mathematical modeling rather than CS. Most of what interests me sits at the intersection of ranking systems and the question underneath them: how do you know a model is actually better before you put it in front of customers?
 
 ---
 
@@ -12,7 +12,6 @@ Leaderboards are the only feedback loop I've found that can't be talked around.
 
 - **ADIA Lab Structural Break Challenge** (CrunchDAO) — sequential change-point detection
 - **CrunchDAO Synth** — probabilistic forecasting for crypto and tokenized equity assets
-- **CrunchDAO Numinous** — binary event forecasting, scored by Brier score
 - **Kaggle** — top 15% globally in several competitions
 - India Ambassador, Global Quant Club (CrunchLab), 2023–24
 
@@ -26,11 +25,6 @@ Off-policy evaluation and contextual bandits — evaluating a policy you haven't
 
 ## Background
 
-- **Verizon** — Senior Manager, AI Science (Personalization AI), 2025–present
-- **PwC Labs** — AI & Data Science, 2020–2025
-- **Accenture** — AI Lab, 2017–2020
-- **Center for Modeling and Simulation, Pune University** — Research Assistant, 2015–2017
-
 M.Tech, Mathematical Modeling and Simulation, Pune University
 B.Tech, Chemical Engineering
 
@@ -40,6 +34,4 @@ US Patent — Document processing using hybrid rule-based AI mechanisms, 2022
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/anandi1989) · [Kaggle](#)
-
-<!-- Replace the Kaggle placeholder with your profile URL, or delete it. -->
+[LinkedIn](https://www.linkedin.com/in/anandi1989) 

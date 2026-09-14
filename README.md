@@ -1,44 +1,38 @@
-Amit Nandi
+# Amit Nandi
 
-Exploring the space between theoretical machine learning and production system design.
+> Applied AI / ML practitioner focused on personalization architectures, agentic systems, and empirical learning.
 
-I am an Applied AI Science Leader and Architect with a background in mathematical modeling. Over the past 14 years, I have been focused on understanding how machine learning systems behave when confronted with real-world complexity, low-latency constraints, and non-stationary data.
+I work on bringing modern AI architectures into real-world production systems. My day-to-day focuses on recommendation engines, real-time ranking, and agentic workflows—balancing theoretical principles with practical engineering constraints like latency, modularity, and scalability.
 
-Currently, I lead an applied AI science team at US telecom giant, working on personalization, real-time ranking models, and orchestrator-led agentic workflows. Beyond my core work, I explore signal design and regularization discipline through prediction markets and obfuscated quantitative datasets.
+---
 
-🔬 Research & Engineering Focus
+### **Current Focus**
 
-Agentic Workflows & Multi-Agent Systems: Transitioning from monolithic task bots to skill-based sub-agent architectures using Google ADK and LangGraph. Investigating routing precision, tool pre-filtering, and agent-to-agent protocol design.
+- **Applied AI & Personalization:** Leading science and engineering efforts around real-time ranking, agentic shopping systems, and customer intelligence models.
+- **Quantitative Exploration:** Investigating financial data challenges, prediction market dynamics, and statistical modeling on obfuscated datasets.
+- **Agentic Architectures:** Building orchestrator-led sub-agent workflows, tool integration paradigms, and skill-based routing for conversational systems.
 
-Real-Time Ranking & Personalization: Optimizing high-throughput recommender systems under strict latency budgets (balancing feature expansion against Top-1 Hit Rate and NDCG@3 performance).
+---
 
-Financial Data & Market Signals: Studying ML hypotheses on decentralized quantitative modeling platforms and prediction markets where overfitting is relentlessly penalized.
+### **Core Interests & Technical Domains**
 
-Systemic Baselines & MLOps: Building resilient deployment pipelines, establishing fast baseline evaluations (logistic/probabilistic sequence models), and scaling GenAI observability.
+| Domain | Focus Areas |
+| :--- | :--- |
+| **Applied ML & Personalization** | Recommendation Systems, Real-Time Ranking, Propensity & Segmentation |
+| **Agentic AI & GenAI** | Orchestrator Sub-Agents, Skill Routing, LangGraph, RAG, Tool Use |
+| **MLOps & Infrastructure** | Model Evaluation, Vector DBs, Latency Optimization, Distributed Systems |
+| **Quantitative & FOSS** | Financial Data Modeling, Prediction Markets, Open Source Collaboration |
 
-📚 Selected Works & Notes
+---
 
-📜 US Patent: Document processing using hybrid rule-based artificial intelligence (AI) mechanisms (Nov 2022)
+### **Background & Community**
 
-📄 Conference Paper: Comparison of Face Embedding Approach Versus CNN-Based Image Classification Approach (Jun 2021)
+- **Research & Engineering:** US Patent holder for hybrid rule-based AI document processing; background spanning applied AI leadership, data science consulting, and technical modeling.
+- **Community:** Passionate about fostering tech, AI, quant, and FOSS communities; involved in open learning initiatives and student mentorship.
 
+---
 
-🛠️ Technical Foundations
+### **Connect**
 
-Languages & Core Math: Python, SQL, R, JavaScript | Stochastic Optimization, Probabilistic Modeling
-
-Applied AI & Frameworks: PyTorch, vLLM, HuggingFace, BERT, Recommendation Systems, LangChain, LangGraph, Google ADK
-
-Infrastructure & Ops: GCP, Azure, Databricks, BigQuery, Spark, Docker, Kubernetes, Vector Databases, FastAPI, MLOps/LLMOps
-
-🤝 Community & Open Science
-
-Global Quant Club: Ambassador for the global Quant Club initiative by Crunch Lab, fostering quantitative finance upskilling.
-
-Open Science & FOSS: Strong believer in open research, technical upskilling, and collaborative engineering communities.
-
-📬 Connect
-
-LinkedIn
-
-Kaggle
+- [LinkedIn](https://www.linkedin.com/in/anandi1989)
+- [GitHub](https://github.com/anandi1989)
